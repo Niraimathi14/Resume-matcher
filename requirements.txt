@@ -1,0 +1,2 @@
+# resume_matcher.py needs no packages. Add the next line only if you want PDF upload:
+pypdf
