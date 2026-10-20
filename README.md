@@ -5,6 +5,7 @@ Python web app that scores your resume against a job description with live resul
 A Python web app that compares your resume with a job description and tells you how well they match. Paste or upload your resume, paste a job post, and the score updates live as you type. It also lists the skills you are missing, suggests how to learn them, and keeps a history of your results in SQLite.
 
 Built with the Python standard library only (no frameworks), plus an HTML/CSS/JavaScript front end.
+   ![Resume Matcher result page](screenshots/result.png)
 
 ## Features
 
